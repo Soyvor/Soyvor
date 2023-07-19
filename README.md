@@ -43,7 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvor&" alt="soyvor" /></p>
 
-
-
-
+# watch snake eating my github timeline
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
