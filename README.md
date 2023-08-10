@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/20/70/f8/2070f812d6a581d5782c2df2f13165e8.gif)](https://yajushukla.netlify.app/)
+[![MasterHead](![Soyvor](https://github.com/Soyvor/Soyvor/assets/97739937/1af754ca-f48c-46ca-8b01-2f4089a7f0b9)
+)
 <h1 align="center">Hi 👋, I'm Soyvor ( Yajushreshtha Shukla)</h1>
 <h3 align="center">A passionate frontend developer from Symbiosis Institute of tech India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474l0nka6mdi20nd7r6tphut9bq8i7z1kwizj0b4d8&rid=giphy.gif&ct=g">
