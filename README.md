@@ -1,5 +1,7 @@
 ![Soyvor](https://github.com/Soyvor/gitbot/assets/97739937/d47995bf-d59b-4226-a2e0-6904f45ba522)
 
+[![An image of @soyvor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soyvor)](https://holopin.io/@soyvor)
+
 <h1 align="center">Hi 👋, I'm Soyvor ( Yajushreshtha Shukla)</h1>
 <h3 align="center">A passionate frontend developer from Symbiosis Institute of tech India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474l0nka6mdi20nd7r6tphut9bq8i7z1kwizj0b4d8&rid=giphy.gif&ct=g">
