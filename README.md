@@ -1,6 +1,5 @@
 ![Soyvor](https://github.com/Soyvor/gitbot/assets/97739937/d47995bf-d59b-4226-a2e0-6904f45ba522)
 
-[![An image of @soyvor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soyvor)](https://holopin.io/@soyvor)
 
 
 <h1 align="center">Hi 👋, I'm Soyvor ( Yajushreshtha Shukla)</h1>
