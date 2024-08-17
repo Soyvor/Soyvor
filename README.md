@@ -43,16 +43,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Soyvor?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyvor&show_icons=true&locale=en&layout=compact" alt="soyvor" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvor&" alt="soyvor" /></p>
-
-
-
-
-
 <div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
@@ -78,12 +68,13 @@
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Soyvor&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soyvor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
-  <br/>
+ <div align=center>
+   <img width=390 src="https://streak-stats.demolab.com/?user=Soyvor&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soyvor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ </div>
+
+<br/>
 
 <br/><br/>
 
