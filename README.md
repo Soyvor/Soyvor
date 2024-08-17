@@ -49,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvor&" alt="soyvor" /></p>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Soyvor?theme=light&font=Noto%20Serif%20Gurmukhi)
