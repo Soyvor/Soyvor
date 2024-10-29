@@ -1,6 +1,7 @@
 
 
 [![An image of @soyvor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soyvor)](https://holopin.io/@soyvor)
+[![An image of @kronos667's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kronos667)](https://holopin.io/@kronos667)
 
 ![Frame 1](https://github.com/user-attachments/assets/eb9943a1-fa96-4691-b8f5-54719f8a760e)
 
