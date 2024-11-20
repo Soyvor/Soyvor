@@ -5,10 +5,6 @@
 
 ![Frame 1](https://github.com/user-attachments/assets/eb9943a1-fa96-4691-b8f5-54719f8a760e)
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Soyvor ( Yajushreshtha Shukla)</h1>
 <h3 align="center">A passionate frontend developer from Symbiosis Institute of tech India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474l0nka6mdi20nd7r6tphut9bq8i7z1kwizj0b4d8&rid=giphy.gif&ct=g">
@@ -16,23 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/yajushreshtha" target="blank"><img src="https://img.shields.io/twitter/follow/yajushreshtha?logo=twitter&style=for-the-badge" alt="yajushreshtha" /></a> </p>
 
-- 🔭 I’m currently working on **Definity**
+- 🚀 **Full-Stack Developer** skilled in ReactJS, AngularJS, Flutter, and MongoDB.  
+- 🎓 **B.Tech Computer Science** student at SIT Pune (Class of 2025).  
+- ☁️ Experienced with **Cloud Platforms** like AWS and Google Cloud.  
+- 🤖 Passionate about **AI** and data-driven problem-solving.  
+- 💻 Developed projects like **AI-powered e-commerce bots** and secure faculty management apps.  
+- 🏆 **Achievements**: LeetCode Candidate Master, HacktoberFest Top Contributor, Flipkart Grid 6.0 Finalist.  
+- 🌟 Contributor to the **developer community** as GDSC Lead and tech volunteer.  
+- 📫 **Let’s connect** on [GitHub](https://github.com/Soyvor) or [LinkedIn](https://linkedin.com/in/yajushreshtha-shukla).  
 
-- 🌱 I’m currently learning **Frameworks, Courses on dsa and React Development**
-
-- 👯 I’m looking to collaborate on **Various Projects Which i keep working on**
-
-- 👨‍💻 All of my projects are available at [https://yajushukla.netlify.app/](https://yajushukla.netlify.app/)
-
-- 📝 I regularly write articles on [https://yajushukla.netlify.app/](https://yajushukla.netlify.app/)
-
-- 💬 Ask me about **Dsa , Google crowdsource , StockMarket , Google cloud , Google Analytics , Microsoft Azure , etc**
-
-- 📫 How to reach me **https://www.linkedin.com/in/yajushreshtha-shukla/**
-
-- 📄 Know about my experiences [https://yajushukla.netlify.app/](https://yajushukla.netlify.app/)
-
-- ⚡ Fun fact **I am shy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
